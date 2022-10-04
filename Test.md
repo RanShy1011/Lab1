@@ -11,3 +11,5 @@
 1. sox -d Lab1.wav 	录音
 2. ctrl+c 停止录音
 3. sox --i Lab1.wav 查看音频文件信息
+
+1
